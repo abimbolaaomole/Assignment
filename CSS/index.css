@@ -1,0 +1,24 @@
+body {
+    background-color: #EAF6F6;
+text-align: center;  
+font-weight: lighter;
+  h1 {
+    color: #66BFBF;
+  }
+  
+  h2, h3, h4 {
+    color: #66BFBF;
+  }
+
+  nav{
+    text-align: left;
+  }
+
+  }
+  @media screen and (minwidth: 800px) {
+    
+  }
+
+  nav{
+    top:0;
+  }
